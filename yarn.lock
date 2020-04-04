@@ -6479,7 +6479,7 @@ gatsby-theme-catalyst-header-top@^1.0.0-alpha.0:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.0.0-alpha.0.tgz#b17765a5cfc926f5eede4e929e9ca58c2e542724"
   integrity sha512-uh7iOx1TVCsfUmADomvfrzMhk1O4ijavGQFFzTRdz/VFdrw/QJy4FCV4+1ZEdiad34JhsieVMf9RR++GN5oAEg==
 
-gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.0:
+gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.1:
   version "1.0.0-alpha.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.1.tgz#fa9f3d14c037a131f5087075bc87cf278391d8a2"
   integrity sha512-suM6aOMHyk9foZ6l7AojT8k9RDATzx8PGSKyRB9ZCN5jDU377XqxjQjWw/Q4yDxMVnlfkAGdR50rSmeAUy+H/w==
