@@ -6480,19 +6480,19 @@ gatsby-theme-catalyst-header-top@^1.0.0-alpha.1:
   integrity sha512-ul91sUkuXMX8N3ipJ/XvNo+eUJM3c2jdtkQMFzgUtn37VRW5p/zjK+aBKIrGd3DY2dxiQy3R+ZTcVH4AuhdZ0g==
 
 gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.4:
-  version "1.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.4.tgz#3c0a79a2de3d204d79ef667127754c1f91d4e61d"
-  integrity sha512-YY3N7GvHaTXEMXsG62Ja2iQR31F3ptCXhwlAQc5NljkUAr8dtaet/ekQkNOoyoRLbnNnOYWzI8vhq5gEEYcUfg==
+  version "1.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.5.tgz#39efee2a38184b97d2599927338b02a323056225"
+  integrity sha512-GdFEeNOwWEh0mONGjJbVzVs4XG8cbIIr2tez8fvwr95Z2nRmcKbvMTE+15EU6TtR0kEgLVEmoX5geX2baJIvQQ==
   dependencies:
     gatsby-theme-catalyst-core "^1.0.0-alpha.2"
     gatsby-theme-catalyst-footer "^1.0.0-alpha.1"
     gatsby-theme-catalyst-header-top "^1.0.0-alpha.1"
-    gatsby-theme-catalyst-sanity "^1.0.0-alpha.3"
+    gatsby-theme-catalyst-sanity "^1.0.0-alpha.4"
 
-gatsby-theme-catalyst-sanity@^1.0.0-alpha.3:
-  version "1.0.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-sanity/-/gatsby-theme-catalyst-sanity-1.0.0-alpha.3.tgz#bfb422b6c129dbbf6db29d770ee1cee66e9f08bd"
-  integrity sha512-1p3zeH0KzhvujBWELcdjxq1q6w7T8ANk+9ZKzD2TyD1ewIWhqglH787LpEsZH5lKItTUznqe/sSARYpSTfaC3w==
+gatsby-theme-catalyst-sanity@^1.0.0-alpha.4:
+  version "1.0.0-alpha.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-sanity/-/gatsby-theme-catalyst-sanity-1.0.0-alpha.4.tgz#d7dc653816af897df2c56e3322a12787c2357060"
+  integrity sha512-wRZpp9Gc4TKxnM6fG2MxEXeeyIR0kMiclPu9ANBclXkLItaGIK90R8BGbj/e/VDAIufcKzeKVdqztBnmbhzd0A==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^5.0.6"
@@ -10228,9 +10228,9 @@ p-limit@^1.1.0:
     p-try "^1.0.0"
 
 p-limit@^2.0.0:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.2.2.tgz#61279b67721f5287aa1c13a9a7fbbc48c9291b1e"
-  integrity sha512-WGR+xHecKTr7EbUEhyLSh5Dube9JtdiG78ufaeLxTgpudf/20KqyMioIUZJAezlTIi6evxuoUs9YXc11cU+yzQ==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.3.0.tgz#3dd33c647a214fdfffd835933eb086da0dc21db1"
+  integrity sha512-//88mFWSJx8lxCzwdAABTJL2MyWB12+eIY7MDL2SqLmAkeKU9qxRvWuSyTjm3FUmpBEMuFfckAIqEaVGUDxb6w==
   dependencies:
     p-try "^2.0.0"
 
