@@ -6431,10 +6431,10 @@ gatsby-telemetry@^1.2.3:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-core@^1.0.0-alpha.2:
-  version "1.0.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.0.0-alpha.2.tgz#6eca796db84bbd371c616db390cd937f36de2b82"
-  integrity sha512-p6tSOD1n/NpeNt3gWpz9+tixvhbdiIqWJaSsA0MD3HOFpVA8xpMFpfP2PXD8+SdHpRuk7zqQFtCHYERvoD0RXA==
+gatsby-theme-catalyst-core@^1.0.0-alpha.3:
+  version "1.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.0.0-alpha.3.tgz#15d78689f714399880345971865fa8209dac484c"
+  integrity sha512-0Cy+XuduDhR9dS0l4gVMSam81eiAlXLrDyKP3v02Ox1aAVrGD+ZAmPeVZRJ7m4ATcbvVts+eAB1uem4R57yyJQ==
   dependencies:
     "@mdx-js/mdx" "^1.5.8"
     "@mdx-js/react" "^1.5.8"
@@ -6479,12 +6479,12 @@ gatsby-theme-catalyst-header-top@^1.0.0-alpha.1:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.0.0-alpha.1.tgz#90c2589d96c9eb3139b42d530becc1ad0e0047fa"
   integrity sha512-ul91sUkuXMX8N3ipJ/XvNo+eUJM3c2jdtkQMFzgUtn37VRW5p/zjK+aBKIrGd3DY2dxiQy3R+ZTcVH4AuhdZ0g==
 
-gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.5:
-  version "1.0.0-alpha.5"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.5.tgz#39efee2a38184b97d2599927338b02a323056225"
-  integrity sha512-GdFEeNOwWEh0mONGjJbVzVs4XG8cbIIr2tez8fvwr95Z2nRmcKbvMTE+15EU6TtR0kEgLVEmoX5geX2baJIvQQ==
+gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.6:
+  version "1.0.0-alpha.6"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.6.tgz#b369625585638fc3f9d39040f955b6cbb50eab76"
+  integrity sha512-lvhqYbVndYDNs7qYK2E/yK1XhJSsL9dpAFS08o/qUl7sgccXhoVg+wYGZW0SEYfMrHlvmxy3+w0k96ZyMq3gSg==
   dependencies:
-    gatsby-theme-catalyst-core "^1.0.0-alpha.2"
+    gatsby-theme-catalyst-core "^1.0.0-alpha.3"
     gatsby-theme-catalyst-footer "^1.0.0-alpha.1"
     gatsby-theme-catalyst-header-top "^1.0.0-alpha.1"
     gatsby-theme-catalyst-sanity "^1.0.0-alpha.4"
@@ -11140,9 +11140,9 @@ prepend-http@^2.0.0:
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
 
 prettier@^2.0.1:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.2.tgz#1ba8f3eb92231e769b7fcd7cb73ae1b6b74ade08"
-  integrity sha512-5xJQIPT8BraI7ZnaDwSbu5zLrB6vvi8hVV58yHQ+QK64qrY40dULy0HSRlQ2/2IdzeBpjhDkqdcFBnFeDEMVdg==
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.3.tgz#9a06f0e94a51420e78b6925568b5bec72afe41ea"
+  integrity sha512-5qpBDBHO9fpE0zruKiTZm8Gxmz7kknO+WlQR/ivV+RMwgDw/WjOgmxLDn66MPrxq/WZPx/EgEZzh87xJO5E6Fw==
 
 pretty-bytes@^5.1.0, pretty-bytes@^5.3.0:
   version "5.3.0"
