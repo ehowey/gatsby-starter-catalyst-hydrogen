@@ -4916,9 +4916,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.247, electron-to-chromium@^1.3.390:
-  version "1.3.397"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.397.tgz#db640c2e67b08d590a504c20b56904537aa2bafa"
-  integrity sha512-zcUd1p/7yzTSdWkCTrqGvbnEOASy96d0RJL/lc5BDJoO23Z3G/VHd0yIPbguDU9n8QNUTCigLO7oEdtOb7fp2A==
+  version "1.3.398"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.398.tgz#4c01e29091bf39e578ac3f66c1f157d92fa5725d"
+  integrity sha512-BJjxuWLKFbM5axH3vES7HKMQgAknq9PZHBkMK/rEXUQG9i1Iw5R+6hGkm6GtsQSANjSUrh/a6m32nzCNDNo/+w==
 
 elliptic@^6.0.0:
   version "6.5.2"
@@ -6480,9 +6480,9 @@ gatsby-theme-catalyst-header-top@^1.0.0-alpha.2:
   integrity sha512-YftYWegGIQRirUazuAAA/Lf08/UvL8y96wDWUEsAQOSHqSDc53/iLCwmx3FQ1mAJE/rnr5AORBbqiWuLZBjUVA==
 
 gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.7:
-  version "1.0.0-alpha.7"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.7.tgz#074b40d8698049db5e1b2d1b93eb1decb0381b5f"
-  integrity sha512-hJbmGjS9c+IwROPTOqQ/7ntOfqEznstAzjaKXisKPBrqHxvd9J3g96FBe8txVbu61tdQdBThKP9vpzqVYKDOOw==
+  version "1.0.0-alpha.8"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.8.tgz#b6bc626169253e96ffc92855b16b2e991796b9f5"
+  integrity sha512-E43PokzKEa82Ua92QS2VLX4AD7U6aLC6epckAyWKXJrzBV4kzwweCobXSXOdyNv3HD1GN2jns772tHZMmdfCjw==
   dependencies:
     gatsby-theme-catalyst-core "^1.0.0-alpha.3"
     gatsby-theme-catalyst-footer "^1.0.0-alpha.1"
