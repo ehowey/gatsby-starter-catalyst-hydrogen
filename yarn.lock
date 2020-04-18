@@ -6669,10 +6669,10 @@ gatsby-telemetry@^1.2.5:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-core@^1.0.0-alpha.6:
-  version "1.0.0-alpha.6"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.0.0-alpha.6.tgz#d8f2d03bf9492f0dec027065860b8a6faaca076f"
-  integrity sha512-fYixodc2ZeOm1ztCjJStOan8BzO0sLhx5P1CsH+dv3kl/xnVyjLBmLu5KyoCBrgqC0vdDs6RijtWtztGiIcZMA==
+gatsby-theme-catalyst-core@^1.0.0-alpha.7:
+  version "1.0.0-alpha.7"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.0.0-alpha.7.tgz#37e797076ebf1dd31da3d2716c04635e891f1637"
+  integrity sha512-8imNru306+fhTtQqHRJyBnV3jXulJU9DrqnS3NWBUjMe/hERJYpUOsfxbs6JcjP9mkD3vIUo3kHll/A9TbwmHg==
   dependencies:
     "@mdx-js/mdx" "^1.5.8"
     "@mdx-js/react" "^1.5.8"
@@ -6718,12 +6718,12 @@ gatsby-theme-catalyst-header-top@^1.0.0-alpha.5:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.0.0-alpha.5.tgz#385f0cade274d4cdec12efa06ea49f686b9d81fe"
   integrity sha512-+LARHYJBa/EPCwjjqnkfARe9N0pHBB8T9IuqFuh2vvfo7nZCZyyRJZkjRtxg1WR71PBtvfhHcGlStzbZqVfKvw==
 
-gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.13:
-  version "1.0.0-alpha.13"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.13.tgz#1c2e01fdd36ed3d7d665f7b3fbf61fe14eb90f37"
-  integrity sha512-3VIrIQ/3Ov2Jm9TzqnxDJMQ50Al0+kQK6ryl67KivlBYNfQ51qSISH4Pts34pa1XVXEWUKNKGTmfoouBm6R5lQ==
+gatsby-theme-catalyst-hydrogen@^1.0.0-alpha.14:
+  version "1.0.0-alpha.14"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-1.0.0-alpha.14.tgz#b32364f8208a3e3ad2bdbae42caad8152fffffd9"
+  integrity sha512-2c3lqBnqzQU/ROWWr7175iJCOydwgmJHoO75iMLzjLECx/X2DkmTa3x3YKMUBtItwiu17X/hiB8i47Jq3aCkEA==
   dependencies:
-    gatsby-theme-catalyst-core "^1.0.0-alpha.6"
+    gatsby-theme-catalyst-core "^1.0.0-alpha.7"
     gatsby-theme-catalyst-footer "^1.0.0-alpha.2"
     gatsby-theme-catalyst-header-top "^1.0.0-alpha.5"
     gatsby-theme-catalyst-sanity "^1.0.0-alpha.5"
