@@ -7121,10 +7121,10 @@ gatsby-telemetry@^1.9.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-core@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-3.1.0.tgz#5a84c7c7899f58b538866734cb26cc9dbadcca26"
-  integrity sha512-ck1Xy6zN57b3VaS7VOl7ov8Zb3N2ESYHqVbuPZiuQpZW1bKYBc1a8t/EL7sGbbXl5+Pd2QCgcb4b6ONKisqnnQ==
+gatsby-theme-catalyst-core@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-3.1.1.tgz#6da1afee14db81efbc1f35ab8f35e033bd093c95"
+  integrity sha512-NRpGm/q5yCqun5OuHS2b+cn12e0vjOxbfgSPzqqyVJGTW59EiJXiNmaZobUUftM+FDy0SUhMIcNb+UstNpv7vg==
   dependencies:
     "@mdx-js/mdx" "^1.6.21"
     "@mdx-js/react" "^1.6.21"
@@ -7179,20 +7179,20 @@ gatsby-theme-catalyst-header-top@^1.5.6:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.5.6.tgz#0fee92fc79591c3d604e86162a0fda528388b904"
   integrity sha512-JkfUangcLA7t+ULG3wB+h/rVOkXBtu3V+GS/LdOMdd8N797RMRDejwwWMqALo2yAn8ePHXy+NMZIFB6w0bsPQw==
 
-gatsby-theme-catalyst-hydrogen@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-5.1.0.tgz#632ab5495f8325d3423f11af7a9eaf2ffafa27ee"
-  integrity sha512-503jvEyEaVoPZLSuqXSO+SHHaAMlaboUgcqmXZC5h1RBJSg9eGhTJN0oS4tzSad8zf+lRBP4Up8WXbIejeYgYA==
+gatsby-theme-catalyst-hydrogen@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-hydrogen/-/gatsby-theme-catalyst-hydrogen-5.1.1.tgz#8faae245c80854e6562b2aa745154cb29706a42c"
+  integrity sha512-R8l6lAKcZ/DPuTggP5QM4bh2yOUi3yZP80tbbrcgVdxKDOb0CSUzCrW1aOhOYy887AsM3OxLogtJJivyMfo1KQ==
   dependencies:
-    gatsby-theme-catalyst-core "^3.1.0"
+    gatsby-theme-catalyst-core "^3.1.1"
     gatsby-theme-catalyst-footer "^1.2.3"
     gatsby-theme-catalyst-header-top "^1.5.6"
-    gatsby-theme-catalyst-sanity "^4.0.5"
+    gatsby-theme-catalyst-sanity "^4.0.6"
 
-gatsby-theme-catalyst-sanity@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-sanity/-/gatsby-theme-catalyst-sanity-4.0.5.tgz#933341f72f08ff6f64f56d376903e9934475d317"
-  integrity sha512-CpmH0WThh/jvh59DgMtpKRZRdXIHSDVg4QK2kFT/dPePDXhvoAUO6mbvzWp20m1E6cjgZRZBcVu5rwfT8QtkzQ==
+gatsby-theme-catalyst-sanity@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-sanity/-/gatsby-theme-catalyst-sanity-4.0.6.tgz#6ddaa6f0252b7cbd3064b4ddbab299849fcd45d0"
+  integrity sha512-VdZC6J2/dYEls5caFMHNSMPhf01e7prsNSNWYuCW0JSD4kte/58NyR7MtoUFtumTiCVPikzLGZr7zukTxSlyGQ==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^6.0.4"
@@ -11937,7 +11937,7 @@ prepend-http@^2.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
 
-prettier@^2.0.5, prettier@^2.1.2:
+prettier@^2.0.5, prettier@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
   integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
